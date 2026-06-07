@@ -1,0 +1,5 @@
+_source-backup/
+*.zip
+qr-*.png
+.DS_Store
+.git

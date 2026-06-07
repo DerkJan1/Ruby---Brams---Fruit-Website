@@ -1,6 +1,7 @@
 .DS_Store
 *.zip
 .vercel
+qr-*.png
 
-# local source/backup folder — the site now lives at the repo root
-New Version/
+# local source/backup folder — the site lives at the repo root
+_source-backup/
